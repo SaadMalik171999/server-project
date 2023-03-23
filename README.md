@@ -5,12 +5,13 @@ Project Demo Video:
 
 https://user-images.githubusercontent.com/74017136/227253073-5f849bd8-64fb-42f7-b3fe-01696f5a772b.mp4
 
-Packages Dependencies:
-✔️ Microsoft.AspNetCore.Mvc.NewtonSoftJson.
-✔️ Microsoft.EntityFrameworkCore
+
+## Packages Dependencies:
+✔️ Microsoft.AspNetCore.Mvc.NewtonSoftJson<br></br>
+✔️ Microsoft.EntityFrameworkCore.<br></br>
 ✔️ Microsoft.EntityFrameworkCore.SqlServer
 
 
-Software Dependencies:
-✔️ Visual Studio 2022.
+## Software Dependencies:
+✔️ Visual Studio 2022.<br></br>
 ✔️ Microsoft SQL Server Mangement Studio.
